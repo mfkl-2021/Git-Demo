@@ -9,8 +9,5 @@ hello git! hello Johnson!
 hello git! hello Johnson!
 hello git! hello Johnson!
 hello git! hello Johnson!
-<<<<<<< HEAD
 hello git! hello Johnson!master test
-=======
 hello git! hello Johnson!hot-fix test
->>>>>>> hot-fix
