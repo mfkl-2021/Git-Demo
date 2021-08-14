@@ -10,4 +10,4 @@ hello git! hello Johnson!
 hello git! hello Johnson!
 hello git! hello Johnson!
 hello git! hello Johnson!master test
-hello git! hello Johnson!hot-fix test
+hello git! hello Johnson!
